@@ -1,7 +1,9 @@
 # umec
 demo umec
-ajout info dans readm
+ajout informations dans readme
 
 Cours GitHub qui se passe bien
 
 Modification2 depuis GitHub
+
+Modification Readme en local
